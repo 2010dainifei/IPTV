@@ -9,9 +9,9 @@ tvbox软件 有的版本支持直接设置直播地址，如果没有，请进�
 IPTV直播源地址
 
 txt格式：
-http://centos.yjxfz.com/ShenQiHelper/tv/getVideoConfig?type=txt&key=Q+3iqZ5VB+M=
+http://centos.yjxfz.com/ShenQiHelper/tv/getVideoConfig?type=txt&key=eG9dvKx7NtG%2FFo%2Fw5o2Bxg%3D%3D
 
 m3u格式：
-http://centos.yjxfz.com/ShenQiHelper/tv/getVideoConfig?type=m3u&key=Q+3iqZ5VB+M=
+http://centos.yjxfz.com/ShenQiHelper/tv/getVideoConfig?type=m3u&key=eG9dvKx7NtG%2FFo%2Fw5o2Bxg%3D%3D
 
 如果喜欢，请点击 小星星表示支持，谢谢
