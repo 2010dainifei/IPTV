@@ -26,7 +26,5 @@ http://centos.yjxfz.com/ShenQiHelper/tv/getVideoConfig?type=m3u&key=eG9dvKx7NtG%
 求打赏 求打赏  求打赏  求打赏  求打赏  求打赏  求打赏  求打赏
 
 
-![image](https://github.com/2010dainifei/IPTV/assets/60343206/499175a5-6ee4-4d85-8bfa-5fb255c47764)
-
 
 如果喜欢，请点击 小星星表示支持，谢谢
