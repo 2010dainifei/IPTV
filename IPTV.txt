@@ -1,3 +1,6 @@
+联系方式,#genre#
+QQ群,http://iptv.yjxfz.com/IPTV_QQ_GROUP.mp4
+418118493,http://iptv.yjxfz.com/IPTV_QQ_GROUP.mp4
 广西卫视,http://www.8700956.top:18888/rtp/239.81.1.001:4056
 CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
 CCTV2,http://www.8700956.top:18888/rtp/239.81.1.003:4056
