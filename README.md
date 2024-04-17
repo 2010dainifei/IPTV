@@ -16,7 +16,9 @@ tvbox软件 有的版本支持直接设置直播地址，如果没有，请进�
 
 IPTV直播源地址
 
-txt格式：
+地址支持：TVBOX和DIYP。 如果需要支持派大星和影视仓的 地址，请前往小树林，免费提供无偿使用
+
+txt格式V2(支持央视、卫视、地方台)：
 http://iptv.yjxfz.com/ShenQiHelper/tv/getVideoConfig?type=txt&key=eG9dvKx7NtG%2FFo%2Fw5o2Bxg%3D%3D&version=2
 
 m3u格式：
