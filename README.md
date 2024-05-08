@@ -34,7 +34,5 @@ http://iptv.yjxfz.com/ShenQiHelper/tv/getVideoConfig?type=m3u&key=eG9dvKx7NtG%2F
 
 求打赏    求打赏     求打赏    求打赏    求打赏    求打赏    求打赏    求打赏    求打赏
 求打赏    求打赏     求打赏     求打赏    求打赏    求打赏    求打赏    求打赏    求打赏
-![image](https://github.com/2010dainifei/IPTV/assets/60343206/b92451e4-3644-4b07-9312-1fc2e0382fdd)
-
 
 如果喜欢，请点击 小星星表示支持，谢谢
