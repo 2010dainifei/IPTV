@@ -5561,3 +5561,75 @@ Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u
 澳视高清,http://61.244.22.5/ch6/hd_ch6.live/playerlist.m3u8
 澳门莲花,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
 澳门莲花,https://edge1.laotv.la:443/live/AomenLotus/index.m3u8
+
+
+
+
+
+
+
+
+
+
+央视台,#genre#
+CCTV-1 综合,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv1hd.m3u8
+CCTV-2 财经,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv2hd.m3u8
+CCTV-3 综艺,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv3hd.m3u8
+CCTV-4 中文国际,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv4hd.m3u8
+CCTV-5 体育,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv5hd.m3u8
+CCTV-5+ 体育赛事,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv5sporthd.m3u8
+CCTV-6 电影,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv6hd.m3u8
+CCTV-7 国防军事,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv7hd.m3u8
+CCTV-8 电视剧,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv8hd.m3u8
+CCTV-9 记录,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv9hd.m3u8
+CCTV-10 科教,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv10hd.m3u8
+CCTV-11 戏曲,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv11hd.m3u8
+CCTV-12 社会与法,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv12hd.m3u8
+CCTV-13 新闻,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctvnewshd.m3u8
+CCTV-14 少儿,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctvsehd.m3u8
+CCTV-15 音乐,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv15hd.m3u8
+CCTV-16 奥林匹克,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv16hd.m3u8
+CCTV-16 奥林匹克4K,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv16_4k.m3u8
+CCTV-17 农业农村,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv17hd.m3u8
+CCTV4K,http://iptv_php.yjxfz.com:1024/ysp.php?id=cctv4k.m3u8
+CHC高清电影,http://iptv_php.yjxfz.com:1024/ysp.php?id=chcgqdyhd.m3u8
+CHC动作电影,http://iptv_php.yjxfz.com:1024/ysp.php?id=chcdzdyhd.m3u8
+CHC家庭影院,http://iptv_php.yjxfz.com:1024/ysp.php?id=chcjtyyhd.m3u8
+第一剧场,http://iptv_php.yjxfz.com:1024/ysp.php?id=diyijuchanghd.m3u8
+怀旧剧场,http://iptv_php.yjxfz.com:1024/ysp.php?id=hjjchd.m3u8
+风云剧场,http://iptv_php.yjxfz.com:1024/ysp.php?id=fyjchd.m3u8
+风云足球,http://iptv_php.yjxfz.com:1024/ysp.php?id=fyzqhd.m3u8
+风云音乐,http://iptv_php.yjxfz.com:1024/ysp.php?id=fyyyhd.m3u8
+兵器科技,http://iptv_php.yjxfz.com:1024/ysp.php?id=bqkjhd.m3u8
+央视台球,http://iptv_php.yjxfz.com:1024/ysp.php?id=ystqhd.m3u8
+卫视台,#genre#
+北京卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=beijinghd.m3u8
+东方卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=shanghaihd.m3u8
+天津卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=tianjinhd.m3u8
+重庆卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=chongqinghd.m3u8
+黑龙江卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=heilongjianghd.m3u8
+吉林卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=jilinhd.m3u8
+辽宁卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=liaoninghd.m3u8
+湖南卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=hunanhd.m3u8
+江苏卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=jiangsuhd.m3u8
+浙江卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=zhejianghd.m3u8
+东南卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=dongnanhd.m3u8
+广东卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=guangdonghd.m3u8
+深圳卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=shenzhenhd.m3u8
+江西卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=jiangxihd.m3u8
+广西卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=guangxihd.m3u8
+贵州卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=guizhouhd.m3u8
+四川卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=sichuanhd.m3u8
+河南卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=henanhd.m3u8
+内蒙古卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=neimengkusd.m3u8
+安徽卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=anhuisd.m3u8
+湖北卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=hubeisd.m3u8
+宁夏卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=ningxia.m3u8
+青海卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=qinghaisd.m3u8
+河北卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=hebeisd.m3u8
+云南卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=yunnansd.m3u8
+新疆卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=xinjiangsd.m3u8
+兵团卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=bingtuansd.m3u8
+西藏卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=xizangsd.m3u8
+海南卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=hainansd.m3u8
+三沙卫视,http://iptv_php.yjxfz.com:1024/ysp.php?id=sanshasd.m3u8
