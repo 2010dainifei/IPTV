@@ -19,10 +19,30 @@ IPTV直播源地址
 地址支持：【TVBOX】和【DIYP】。 如果需要支持【派大星】和【影视仓】的 地址，请前往小树林，免费提供无偿使用
 
 txt格式V2(支持央视、卫视、地方台)：
-http://iptv.yjxfz.com/ShenQiHelper/tv/getVideoConfig?type=txt&key=eG9dvKx7NtG%2FFo%2Fw5o2Bxg%3D%3D&version=2
+https://iptv.yjxfz.com/ShenQiHelper/tv/getVideoConfigByPath/txt/ZOwPrWdmlsFH5FkRoc6FiQ==/2/height/y/ipv46
 
 m3u格式：
-http://iptv.yjxfz.com/ShenQiHelper/tv/getVideoConfig?type=m3u&key=eG9dvKx7NtG%2FFo%2Fw5o2Bxg%3D%3D
+https://iptv.yjxfz.com/ShenQiHelper/tv/getVideoConfigByPath/m3u/ZOwPrWdmlsFH5FkRoc6FiQ==/2/height/y/ipv46
+
+地址参数说明：
+自己可以根据需求修改：
+ 
+参数一、txt 表示需要的类型，可以修改成： txt 或者 m3u
+参数二、ZOwPrWdmlsFH5FkRoc6FiQ== 表示秘钥信息，一般不需要修改
+参数三、2  表示version2, 修改修改成0 或者 2 ，修改成0时表示version1,只有央视、卫视、电影台。version2 有全部电视台。
+参数四、height 表示清晰度。可以修改  height 或者 low  ,height 表示高清，分辨率在1080P及以上。low表示标清，分辨率在1080P以下。标清电视台少.
+参数五、y 表示是否显示线路特征。可以修改y 或者 n  ,y 表示需要显示线路特征（推荐），n表示不需要显示。ntplayer 和 vlc 播放器不支持显示线路特征，所以才有此选项.
+参数六、ipv46 表示需要哪种IP类型的数据源。可以修改ipv4 、ipv6  , ipv46 ，ipv64 。 ipv4表示只需要ipv4的直播源。ipv6表示只需要ipv6的直播源。ipv46表示需要ipv4和ipv6两种数据源，且ipv4在前面。ipv64 表示需要ipv6和ipv4两种数据源，且ipv6的在前面。
+
+注意：如果设备不支持IPV6地址，请不要使用带有IPV6的源，这可能会因为网络不通导致的频繁换台导致被防火墙拉黑，谨慎选择数据源。
+
+
+如果遇到经常被防火墙拉黑的问题，也可以联系群主开通防火墙白名单。要求如下：
+1、	需要群成员等级是 黄金 。 避免小号重复申请 扫描接口地址
+2、	君子协议：申请白名单通过后不得扫描接口地址。一旦被认定扫描接口地址，则直接封号、永久禁言。
+
+
+
 
 ![image](https://github.com/2010dainifei/IPTV/assets/60343206/571823c7-2eb2-4bf8-862b-76be6a12b00b)
 ![image](https://github.com/2010dainifei/IPTV/assets/60343206/ba8409b0-976c-42d6-b618-7de619839ded)
