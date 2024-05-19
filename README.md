@@ -28,10 +28,15 @@ https://iptv.yjxfz.com/ShenQiHelper/tv/getVideoConfigByPath/m3u/ZOwPrWdmlsFH5FkR
 自己可以根据需求修改：
  
 参数一、txt 表示需要的类型，可以修改成： txt 或者 m3u
+
 参数二、ZOwPrWdmlsFH5FkRoc6FiQ== 表示秘钥信息，一般不需要修改
+
 参数三、2  表示version2, 修改修改成0 或者 2 ，修改成0时表示version1,只有央视、卫视、电影台。version2 有全部电视台。
+
 参数四、height 表示清晰度。可以修改  height 或者 low  ,height 表示高清，分辨率在1080P及以上。low表示标清，分辨率在1080P以下。标清电视台少.
+
 参数五、y 表示是否显示线路特征。可以修改y 或者 n  ,y 表示需要显示线路特征（推荐），n表示不需要显示。ntplayer 和 vlc 播放器不支持显示线路特征，所以才有此选项.
+
 参数六、ipv46 表示需要哪种IP类型的数据源。可以修改ipv4 、ipv6  , ipv46 ，ipv64 。 ipv4表示只需要ipv4的直播源。ipv6表示只需要ipv6的直播源。ipv46表示需要ipv4和ipv6两种数据源，且ipv4在前面。ipv64 表示需要ipv6和ipv4两种数据源，且ipv6的在前面。
 
 注意：如果设备不支持IPV6地址，请不要使用带有IPV6的源，这可能会因为网络不通导致的频繁换台导致被防火墙拉黑，谨慎选择数据源。
